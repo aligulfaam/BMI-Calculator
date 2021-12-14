@@ -1,0 +1,41 @@
+ body{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border-image: contain;
+    color:rgb(251, 251, 251);
+}
+h1, p{
+    color: white ;
+    width: auto;
+    background-color: rgba(255, 0, 0, 0.815);
+    height: auto;
+} 
+
+button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+}
+button:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+body{
+    padding: auto;
+    margin: auto;
+    max-width: 500px;
+    max-height: auto;
+}
+input{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    opacity: 500%;
+    background-color: rgb(255, 7, 7);
+    color: white;
+} 
+table{
+    margin: auto;
+    text-align: center ;
+    color:white;
+    background-color: red;
+}
